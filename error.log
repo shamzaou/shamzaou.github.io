@@ -84,3 +84,60 @@ To https://github.com/shamzaou/shamzaou.github.io.git
    d68037a..5338caa  master -> master
 
 
+----------
+
+Thu Mar 14 2024 11:23:11 GMT+0400 (Gulf Standard Time)
+
+warning: in the working copy of 'assets/bootstrap/css/bootstrap.min.css', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Thu Mar 14 2024 11:23:11 GMT+0400 (Gulf Standard Time)
+
+warning: in the working copy of 'assets/bootstrap/js/bootstrap.min.js', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Thu Mar 14 2024 11:23:11 GMT+0400 (Gulf Standard Time)
+
+warning: in the working copy of 'assets/css/Hero-Clean-Reverse-images.css', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Thu Mar 14 2024 11:23:11 GMT+0400 (Gulf Standard Time)
+
+warning: in the working copy of 'assets/css/Navbar-Right-Links-Dark-icons.css', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Thu Mar 14 2024 11:23:11 GMT+0400 (Gulf Standard Time)
+
+warning: in the working copy of 'assets/css/Profile-with-data-and-skills.css', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Thu Mar 14 2024 11:23:11 GMT+0400 (Gulf Standard Time)
+
+warning: in the working copy of 'error.log', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Thu Mar 14 2024 11:23:11 GMT+0400 (Gulf Standard Time)
+
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the next time Git touches it
+
+
+----------
+
+Thu Mar 14 2024 11:23:12 GMT+0400 (Gulf Standard Time)
+
+error: src refspec main does not match any
+error: failed to push some refs to 'origin'
+
+
